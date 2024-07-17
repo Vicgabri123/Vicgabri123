@@ -1,0 +1,46 @@
+Aula de Git 17/07/2024
+14:00
+
+Configuração
+Gerencia de configuração
+Porque?
+Para quem?
+Separação de aplicação
+
+Criado em 1950, pelo Departamento de Defesa dos Estados Unidos desenvolveu uma disciplina de gerenciamento técnico para monitorar as mudanças no desenvolvimento de sistemas complexos.
+
+Em 2001 publicou um guia consolidado que estabeleceu o sistema de gerenciamento técnico agora chamado de gerenciamento de configuração.
+
+O que é?
+O gerenciamento de configuração é um processo para estabelecer a consistência dos atributos de um produto ao longo da vida dele.
+um processo de engenharia de sistemas que rastreia e monitora alterações em metadados de configuração de sistemas de software. No desenvolvimento de software, o gerenciamento de configuração é muitas vezes usado
+junto com controle de versão e a infraestrutura CI/CD
+
+CI = A Integração Contínua 
+CD =  Entrega Contínua 
+14:30
+
+CI/CD: Agilizando o desenvolvimento de software
+Benefícios:
+-Software de alta qualidade: Detecção precoce de bugs e falhas.
+-Maior agilidade: Lançamento frequente de novas versões.
+-Menor Riscos de Falhas: Automação reduz erros humanos.
+-Maior Produtividades: Desenvolvedores focam em atividades estratégicas.
+-Melhor Colaboração: Equipes de desenvolvimento e operações trabalham juntas.
+
+Ferramentas:
+-Jenkins: 
+-GitLab: 
+-Travis Cl:
+-CircleCl:
+-Azure DevOps:
+
+15:00
+Git: Controle de versão para Desenvolvedores e equipes.
+ é um sistema de controle de versão distribuído, usando principalmente para gerenciar o desenvolvimento de software.
+
+.O núcleo (Kernel) do Línux é um projeto de código aberto com um escopo bastante grande.
+
+Repositório: Um local onde o código do projeto é armazenado, junto com todo o seu histórico de alterações
+Commit: Uma captura instantânea do estado do código em um determinado momento. Cada commit inclui uma mensagem que descreve as alterações feitas.
+Branch:
